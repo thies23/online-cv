@@ -9,15 +9,15 @@ sidebar:
 
     # Profile information
     name: Thies Müller
-    tagline: Network & Infrastructure Engineer
+    tagline: Senior Network & Infrastructure Engineer
     avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mail@thiesmueller.de
     phone: +49 152 2748 9913
-    website: thiesmueller.de #do not add http://
+    website: thies.xyz #do not add http://
     linkedin: thiesmueller
-    github: td00
+    github: thies23
     timezone: Europe/Berlin
     citizenship: German
     
@@ -36,7 +36,6 @@ sidebar:
         link: https://jugendhackt.org
       - item: Chaos Computer Club
         link: https://ccc.de
-    pdflink: ../cv.pdf
    
 career-profile:
     title: Profile
@@ -60,7 +59,13 @@ experiences:
       details: |
         The previous company was bought by WIIT AG.
         Additionally:
-        - Creating training courses for colleagues
+        - Creating training courses & materials for colleagues
+        - Maintaining an IPv6 mostly management infrastructure and combining the different networks of the former companies
+        - Interims Teamlead Network Operations
+        - BSI IT-Grundschutz Certification
+        - BSI KRITIS Certification
+        - ISO 27001 Certification
+        
       
     - role: Senior Network & Infrastructure Engineer
       time: 2021 - 2024
@@ -72,7 +77,17 @@ experiences:
         - Consulting for other Teams in regards to questions about networking, (network) security & IPv6
         - Working as a technical expert during incidents as part of the companies incident response team as well as participating in the on-call schedule to satisfy our customers needs in highly reliable systems
         - Developing & maintaining specialised solutions based on customer needs. 
-        
+    
+    - role: Self Employed
+      time: 2020 - present
+      company: Thies Mueller Service Solutions
+      details: |
+        - Supporting the IT needs for small & medium NGOs
+        - Creating specialised tools
+        - Consulting on network and network security needs
+        - Planning and operating event networks & infrastructure
+      
+
     - role: Network Engineer
       time: 2019 - 2021
       company: WOBCOM GmbH, Wolfsburg
@@ -150,12 +165,17 @@ publications:
       - title: "Technical Project Lead @ rC3"
         link: "https://rc3.world"
         authors: Chaos Computer Club e.V. / Chaos Computer Club Veranstaltungs GmbH
-        conference: 2020 - present
+        conference: 2020 - 2022
 
       - title: "Jugend hackt"
         link: "https://jugendhackt.org"
         authors: Jugend hackt (OKFN e. V. / mediale Pfade e. V.)
         conference: 2021 - present
+
+      - title: "Vorstand Lokaler Verein für Jugend hackt"
+        link: "https://alpacabunt.de"
+        authors: "Alpakas coden alles bunter e. V."
+        conference: 2024 - present
 
 skills:
     title: Skills &amp; Proficiency
