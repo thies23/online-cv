@@ -179,55 +179,55 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Network Architect
-        
-    - name: Firewall
-        
-    - name: Juniper
-        
-    - name: Cisco
-        
-    - name: Palo Alto Networks
+  - name: Network Architect
       
-    - name: FortiNet
+  - name: Firewall
       
-    - name: Sophos
+  - name: Juniper
       
-    - name: NVIDIA / Mellanox
+  - name: Cisco
       
-    - name: Linux
-      
-    - name: Mellanox Onyx
-      
-    - name: Cumulus Linux
+  - name: Palo Alto Networks
+    
+  - name: FortiNet
+    
+  - name: Sophos
+    
+  - name: NVIDIA / Mellanox
+    
+  - name: Linux
+    
+  - name: Mellanox Onyx
+    
+  - name: Cumulus Linux
 
-    - name: VMware
-      
-    - name: Proxmox
-      
-    - name: nginx
-      
-    - name: frr
-      
-    - name: bird
-      
-    - name: PowerDNS
-      
-    - name: ansible
-      
-    - name: git
-      
-    - name: IPv6
-      
-    - name: BGP
-      
-    - name: MPLS
-      
-    - name: EVPN
-      
-    - name: Vulnerability Management
-      
-    - name: Incident Management
+  - name: VMware
+    
+  - name: Proxmox
+    
+  - name: nginx
+    
+  - name: frr
+    
+  - name: bird
+    
+  - name: PowerDNS
+    
+  - name: ansible
+    
+  - name: git
+    
+  - name: IPv6
+    
+  - name: BGP
+    
+  - name: MPLS
+    
+  - name: EVPN
+    
+  - name: Vulnerability Management
+    
+  - name: Incident Management
       
         
 footer: >
