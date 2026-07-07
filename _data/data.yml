@@ -176,58 +176,58 @@ publications:
         conference: 2024 - present
 
 skills:
-  title: Skills and Proficiency
+  title: Skills &amp; Proficiency
 
     toolset:
-      - name: Network Architect
+    - name: Network Architect
         
-      - name: Firewall
+    - name: Firewall
         
-      - name: Juniper
+    - name: Juniper
         
-      - name: Cisco
+    - name: Cisco
         
-      - name: Palo Alto Networks
+    - name: Palo Alto Networks
       
-      - name: FortiNet
+    - name: FortiNet
       
-      - name: Sophos
+    - name: Sophos
       
-      - name: NVIDIA / Mellanox
+    - name: NVIDIA / Mellanox
       
-      - name: Linux
+    - name: Linux
       
-      - name: Mellanox Onyx
+    - name: Mellanox Onyx
       
-      - name: Cumulus Linux
+    - name: Cumulus Linux
 
-      - name: VMware
+    - name: VMware
       
-      - name: Proxmox
+    - name: Proxmox
       
-      - name: nginx
+    - name: nginx
       
-      - name: frr
+    - name: frr
       
-      - name: bird
+    - name: bird
       
-      - name: PowerDNS
+    - name: PowerDNS
       
-      - name: ansible
+    - name: ansible
       
-      - name: git
+    - name: git
       
-      - name: IPv6
+    - name: IPv6
       
-      - name: BGP
+    - name: BGP
       
-      - name: MPLS
+    - name: MPLS
       
-      - name: EVPN
+    - name: EVPN
       
-      - name: Vulnerability Management
+    - name: Vulnerability Management
       
-      - name: Incident Management
+    - name: Incident Management
       
         
 footer: >
